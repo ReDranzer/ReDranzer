@@ -1,6 +1,6 @@
-# Rishabh
+# Hi, I'm Rishabh
 # 💫 About Me:
-A data scientist with 3 years of industry experience.<br>Completed masters from Indian Institute of Science IISC Bangalore.<br>Proficient in Deep Learning. <br>Experienced in developing and implementing predictive models, and leveraging data to drive business insights and decisions.<br>
+A data scientist with 3 years of industry experience.<br>Completed masters from Indian Institute of Science (IISc) Bangalore.<br>Proficient in Deep Learning. <br>Experienced in developing and implementing predictive models, and leveraging data to drive business insights and decisions.<br>
 
 
 ## 🌐 Socials:
